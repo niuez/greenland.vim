@@ -133,7 +133,7 @@ call s:h("Conditional", s:ddia, "", "")
 call s:h("Repeat", s:ddia, "", "")
 call s:h("Label", s:ddia, "", "")
 call s:h("Operator", s:fg, "", "")
-call s:h("Keyword", s:red, "", "")
+call s:h("Keyword", s:eme, "", "")
 call s:h("Exception", s:ddia, "", "")
 
 call s:h("PreProc", s:yellow, "", "") "what
